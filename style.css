@@ -1,0 +1,93 @@
+* {
+	margin: 0;
+	padding: 0;
+	font-family: Arial;
+}
+
+body {
+	background-color: black;
+	color: white;
+}
+
+#Logo h1 {
+	padding-top: 13px;
+	padding-left: 35px;
+	font-family: Arial;
+}
+
+.Main_nav ul {
+	padding-left: 10px;
+	padding-top: 20px;
+}
+
+.Main_nav ul li {
+	display: inline-block;
+	padding-left: 25px;
+}
+
+.Main_nav ul li a{
+	text-decoration: none;
+	color: lime;
+	font-family: Arial;
+	font-size: 19px;
+}
+
+.Main_nav ul li a:hover {
+	color: white;
+}
+
+.Forms h3 {
+	padding-left: 35px;
+	padding-top: 30px;
+	padding-bottom: 25px;
+}
+
+.Forms form {
+	padding-top: 15px;
+	padding-left: 35px;
+}
+
+.Forms form label {
+	padding-right: 8px;
+
+}
+
+#School {
+	padding-right: 25px;
+}
+
+#phone {
+	padding-right: 17px;
+}
+
+.labelp {
+	padding-left: 10px;
+}
+
+#something {
+	padding-left: 40px;
+}
+
+.Forms h4 {
+	padding-left: 35px;
+	padding-top: 37px;
+	padding-bottom: 10px;
+}
+
+.Forms button {
+	margin-left: 38px;
+}
+
+.school h3 {
+	padding-left: 35px;
+	color: lime;
+	padding-top: 20px;
+}
+
+.school a {
+	padding-left: 35px;
+}
+
+.school a img {
+	padding-top: 20px;
+}
